@@ -4,7 +4,6 @@ import java.util.Scanner;
 public class att2 {
 	
 	
-	    
 	  
 	    public static double calcularPrecoTotal(int quantidade, double precoUnitario) {
 	        return quantidade * precoUnitario;
